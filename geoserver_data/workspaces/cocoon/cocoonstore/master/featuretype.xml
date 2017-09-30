@@ -1,0 +1,62 @@
+<featureType>
+  <id>FeatureTypeInfoImpl-219dd3f:1486ab82847:-7ffd</id>
+  <name>master</name>
+  <nativeName>master</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl-219dd3f:1486ab82847:-7fff</id>
+  </namespace>
+  <title>master</title>
+  <keywords>
+    <string>features</string>
+    <string>master</string>
+  </keywords>
+  <nativeCRS class="projected">PROJCS[&quot;WGS 84 / Pseudo-Mercator&quot;, 
+  GEOGCS[&quot;WGS 84&quot;, 
+    DATUM[&quot;World Geodetic System 1984&quot;, 
+      SPHEROID[&quot;WGS 84&quot;, 6378137.0, 298.257223563, AUTHORITY[&quot;EPSG&quot;,&quot;7030&quot;]], 
+      AUTHORITY[&quot;EPSG&quot;,&quot;6326&quot;]], 
+    PRIMEM[&quot;Greenwich&quot;, 0.0, AUTHORITY[&quot;EPSG&quot;,&quot;8901&quot;]], 
+    UNIT[&quot;degree&quot;, 0.017453292519943295], 
+    AXIS[&quot;Geodetic longitude&quot;, EAST], 
+    AXIS[&quot;Geodetic latitude&quot;, NORTH], 
+    AUTHORITY[&quot;EPSG&quot;,&quot;4326&quot;]], 
+  PROJECTION[&quot;Popular Visualisation Pseudo Mercator&quot;, AUTHORITY[&quot;EPSG&quot;,&quot;1024&quot;]], 
+  PARAMETER[&quot;semi_minor&quot;, 6378137.0], 
+  PARAMETER[&quot;latitude_of_origin&quot;, 0.0], 
+  PARAMETER[&quot;central_meridian&quot;, 0.0], 
+  PARAMETER[&quot;scale_factor&quot;, 1.0], 
+  PARAMETER[&quot;false_easting&quot;, 0.0], 
+  PARAMETER[&quot;false_northing&quot;, 0.0], 
+  UNIT[&quot;m&quot;, 1.0], 
+  AXIS[&quot;Easting&quot;, EAST], 
+  AXIS[&quot;Northing&quot;, NORTH], 
+  AUTHORITY[&quot;EPSG&quot;,&quot;3857&quot;]]</nativeCRS>
+  <srs>EPSG:900913</srs>
+  <nativeBoundingBox>
+    <minx>2639014.25</minx>
+    <maxx>2645890.75</maxx>
+    <miny>4574389.5</miny>
+    <maxy>4582174.5</maxy>
+    <crs class="projected">EPSG:3857</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>23.706668357842158</minx>
+    <maxx>23.76844100835464</maxx>
+    <miny>37.964340177671346</miny>
+    <maxy>38.01945488289461</maxy>
+    <crs>GEOGCS[&quot;WGS84(DD)&quot;, 
+  DATUM[&quot;WGS84&quot;, 
+    SPHEROID[&quot;WGS84&quot;, 6378137.0, 298.257223563]], 
+  PRIMEM[&quot;Greenwich&quot;, 0.0], 
+  UNIT[&quot;degree&quot;, 0.017453292519943295], 
+  AXIS[&quot;Geodetic longitude&quot;, EAST], 
+  AXIS[&quot;Geodetic latitude&quot;, NORTH]]</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl-219dd3f:1486ab82847:-7ffe</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+</featureType>

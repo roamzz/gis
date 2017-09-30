@@ -1,0 +1,15 @@
+<layer>
+  <name>master</name>
+  <id>LayerInfoImpl-219dd3f:1486ab82847:-7ffc</id>
+  <type>VECTOR</type>
+  <defaultStyle>
+    <id>StyleInfoImpl--570ae188:124761b8d78:-7fdf</id>
+  </defaultStyle>
+  <resource class="featureType">
+    <id>FeatureTypeInfoImpl-219dd3f:1486ab82847:-7ffd</id>
+  </resource>
+  <attribution>
+    <logoWidth>0</logoWidth>
+    <logoHeight>0</logoHeight>
+  </attribution>
+</layer>
